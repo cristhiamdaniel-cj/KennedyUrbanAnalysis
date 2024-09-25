@@ -1,0 +1,31 @@
+2024-09-25 10:17:41,108 - INFO - Archivo encontrado: ../data/banco_iniciativas.xlsx
+2024-09-25 10:17:41,497 - ERROR - Error al leer la hoja de cálculo: Worksheet named 'BANCO DE INICIATIVAS VIAS' not found
+2024-09-25 10:17:54,583 - INFO - Archivo encontrado: ../data/banco_iniciativas.xlsx
+2024-09-25 10:17:56,707 - INFO - Hoja 'BANCO DE INICIATIVAS VIAS ' leída correctamente.
+2024-09-25 10:17:56,707 - INFO - Columna 'CIV' encontrada en el archivo.
+2024-09-25 10:17:57,437 - INFO - Gráfico generado para la columna 'CIV'.
+2024-09-25 10:25:10,704 - INFO - Archivo encontrado: /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../data/banco_iniciativas.xlsx
+2024-09-25 10:25:12,688 - INFO - Hoja 'BANCO DE INICIATIVAS VIAS ' leída correctamente.
+2024-09-25 10:25:12,688 - INFO - Columna 'CIV' encontrada en el archivo.
+2024-09-25 10:25:12,855 - INFO - Gráfico generado para la columna 'CIV'.
+2024-09-25 10:29:39,788 - INFO - Archivo encontrado: /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../data/banco_iniciativas.xlsx
+2024-09-25 10:29:41,951 - INFO - Hoja 'BANCO DE INICIATIVAS VIAS ' leída correctamente.
+2024-09-25 10:29:41,951 - INFO - Columna 'CIV' encontrada en el archivo.
+2024-09-25 10:29:42,225 - ERROR - Error al generar el gráfico: [Errno 2] No such file or directory: '/home/usuario/PycharmProjects/KennedyUrbanAnalysis/output/top_civ_values.png'
+2024-09-25 10:44:56,543 - INFO - Archivo encontrado: /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../data/banco_iniciativas.xlsx
+2024-09-25 10:44:58,543 - INFO - Hoja 'BANCO DE INICIATIVAS VIAS ' leída correctamente.
+2024-09-25 10:44:58,543 - INFO - Columna 'CIV' encontrada en el archivo.
+2024-09-25 10:44:58,890 - INFO - Gráfico guardado en '/home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/top_civ_values.png'
+2024-09-25 10:48:13,003 - INFO - Archivo encontrado: /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../data/banco_iniciativas.xlsx
+2024-09-25 10:48:14,983 - INFO - Hoja 'BANCO DE INICIATIVAS VIAS ' leída correctamente.
+2024-09-25 10:48:14,983 - INFO - Columna 'CIV' encontrada en el archivo.
+2024-09-25 10:48:15,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-25 10:48:15,038 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-25 10:48:15,417 - INFO - Gráfico guardado en '/home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/top_civ_values.png'
+2024-09-25 10:52:21,982 - INFO - Archivo encontrado: /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../data/banco_iniciativas.xlsx
+2024-09-25 10:52:23,981 - INFO - Hoja 'BANCO DE INICIATIVAS VIAS ' leída correctamente.
+2024-09-25 10:52:23,981 - INFO - Columna 'CIV' encontrada en el archivo.
+2024-09-25 10:52:23,988 - INFO - Valores guardados en '/home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/top_30_civ_values.txt'
+2024-09-25 10:52:24,029 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-25 10:52:24,030 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-25 10:52:24,364 - INFO - Gráfico guardado en '/home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/top_civ_values.png'
