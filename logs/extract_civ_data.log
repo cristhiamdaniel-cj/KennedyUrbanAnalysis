@@ -1,0 +1,156 @@
+2024-09-25 11:05:43,389 - INFO - Leídos 31 CIVs desde el archivo /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/top_30_civ_values.txt
+2024-09-25 11:05:49,317 - ERROR - Error al conectar con la API de ArcGIS para CIV Top 30 valores más recurrentes en la columna CIV: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3DTop+30+valores+m%C3%A1s+recurrentes+en+la+columna+CIV&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b26fc9e0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,332 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014077: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014077&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2755700>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,342 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014080: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014080&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2755f70>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,353 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014082: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014082&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2756630>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,367 - ERROR - Error al conectar con la API de ArcGIS para CIV 8007557: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8007557&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b26fe900>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,377 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014083: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014083&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2756060>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,389 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014084: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014084&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2755d90>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,399 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014085: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014085&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b27554c0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,412 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014081: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014081&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b27571a0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,422 - ERROR - Error al conectar con la API de ArcGIS para CIV 7007894: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D7007894&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2757a10>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,436 - ERROR - Error al conectar con la API de ArcGIS para CIV 8005921: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8005921&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b26fc9e0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,450 - ERROR - Error al conectar con la API de ArcGIS para CIV 8000645: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8000645&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2757380>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,463 - ERROR - Error al conectar con la API de ArcGIS para CIV 8000956: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8000956&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2756c00>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,477 - ERROR - Error al conectar con la API de ArcGIS para CIV 8014576: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8014576&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2755bb0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,488 - ERROR - Error al conectar con la API de ArcGIS para CIV 8007622: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8007622&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b27564b0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,499 - ERROR - Error al conectar con la API de ArcGIS para CIV 8008530: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8008530&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b254c2f0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,509 - ERROR - Error al conectar con la API de ArcGIS para CIV 8008417: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8008417&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b27568a0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,519 - ERROR - Error al conectar con la API de ArcGIS para CIV 8006004: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8006004&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2755df0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,530 - ERROR - Error al conectar con la API de ArcGIS para CIV 8011285: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8011285&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2755b80>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,539 - ERROR - Error al conectar con la API de ArcGIS para CIV 8005539: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8005539&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2757170>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,550 - ERROR - Error al conectar con la API de ArcGIS para CIV 8004326: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8004326&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2757f20>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,561 - ERROR - Error al conectar con la API de ArcGIS para CIV 8004225: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8004225&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b269b4d0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,573 - ERROR - Error al conectar con la API de ArcGIS para CIV 8000582: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8000582&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b254ce90>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,585 - ERROR - Error al conectar con la API de ArcGIS para CIV 8005572: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8005572&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2757ad0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,593 - ERROR - Error al conectar con la API de ArcGIS para CIV 8007705: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8007705&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2757470>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,602 - ERROR - Error al conectar con la API de ArcGIS para CIV 8001345: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8001345&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b27557f0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,609 - ERROR - Error al conectar con la API de ArcGIS para CIV 8001000: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8001000&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2756240>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,619 - ERROR - Error al conectar con la API de ArcGIS para CIV 8003872: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8003872&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2756900>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,628 - ERROR - Error al conectar con la API de ArcGIS para CIV 8000538: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8000538&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b254d0d0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,636 - ERROR - Error al conectar con la API de ArcGIS para CIV 8004747: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8004747&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b2756270>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:05:49,663 - ERROR - Error al conectar con la API de ArcGIS para CIV 8012677: HTTPSConnectionPool(host='your-arcgis-api-endpoint', port=443): Max retries exceeded with url: /InventarioIDU/MapServer/0/query?f=json&where=CIV%3D8012677&outFields=%2A&returnGeometry=true (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7311b27552b0>: Failed to resolve 'your-arcgis-api-endpoint' ([Errno -2] Name or service not known)"))
+2024-09-25 11:08:36,416 - INFO - Leídos 31 CIVs desde el archivo /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/top_30_civ_values.txt
+2024-09-25 11:08:36,516 - INFO - Datos obtenidos para CIV: Top 30 valores más recurrentes en la columna CIV
+2024-09-25 11:08:36,518 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_Top 30 valores más recurrentes en la columna CIV.json
+2024-09-25 11:08:36,847 - INFO - Datos obtenidos para CIV: 8014077
+2024-09-25 11:08:36,849 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014077.json
+2024-09-25 11:08:37,257 - INFO - Datos obtenidos para CIV: 8014080
+2024-09-25 11:08:37,259 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014080.json
+2024-09-25 11:08:37,666 - INFO - Datos obtenidos para CIV: 8014082
+2024-09-25 11:08:37,668 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014082.json
+2024-09-25 11:08:37,774 - INFO - Datos obtenidos para CIV: 8007557
+2024-09-25 11:08:37,776 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8007557.json
+2024-09-25 11:08:42,786 - INFO - Datos obtenidos para CIV: 8014083
+2024-09-25 11:08:42,788 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014083.json
+2024-09-25 11:08:43,094 - INFO - Datos obtenidos para CIV: 8014084
+2024-09-25 11:08:43,095 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014084.json
+2024-09-25 11:08:43,561 - INFO - Datos obtenidos para CIV: 8014085
+2024-09-25 11:08:43,563 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014085.json
+2024-09-25 11:08:44,014 - INFO - Datos obtenidos para CIV: 8014081
+2024-09-25 11:08:44,016 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014081.json
+2024-09-25 11:08:44,158 - INFO - Datos obtenidos para CIV: 7007894
+2024-09-25 11:08:44,159 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_7007894.json
+2024-09-25 11:08:44,527 - INFO - Datos obtenidos para CIV: 8005921
+2024-09-25 11:08:44,529 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8005921.json
+2024-09-25 11:08:44,937 - INFO - Datos obtenidos para CIV: 8000645
+2024-09-25 11:08:44,939 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000645.json
+2024-09-25 11:08:49,725 - INFO - Datos obtenidos para CIV: 8000956
+2024-09-25 11:08:49,727 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000956.json
+2024-09-25 11:08:50,055 - INFO - Datos obtenidos para CIV: 8014576
+2024-09-25 11:08:50,056 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014576.json
+2024-09-25 11:08:50,466 - INFO - Datos obtenidos para CIV: 8007622
+2024-09-25 11:08:50,468 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8007622.json
+2024-09-25 11:08:50,789 - INFO - Datos obtenidos para CIV: 8008530
+2024-09-25 11:08:50,791 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8008530.json
+2024-09-25 11:08:51,080 - INFO - Datos obtenidos para CIV: 8008417
+2024-09-25 11:08:51,082 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8008417.json
+2024-09-25 11:08:51,695 - INFO - Datos obtenidos para CIV: 8006004
+2024-09-25 11:08:51,697 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8006004.json
+2024-09-25 11:08:51,828 - INFO - Datos obtenidos para CIV: 8011285
+2024-09-25 11:08:51,830 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8011285.json
+2024-09-25 11:08:52,221 - INFO - Datos obtenidos para CIV: 8005539
+2024-09-25 11:08:52,223 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8005539.json
+2024-09-25 11:08:52,720 - INFO - Datos obtenidos para CIV: 8004326
+2024-09-25 11:08:52,722 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8004326.json
+2024-09-25 11:08:57,863 - INFO - Datos obtenidos para CIV: 8004225
+2024-09-25 11:08:57,865 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8004225.json
+2024-09-25 11:08:58,350 - INFO - Datos obtenidos para CIV: 8000582
+2024-09-25 11:08:58,352 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000582.json
+2024-09-25 11:08:58,760 - INFO - Datos obtenidos para CIV: 8005572
+2024-09-25 11:08:58,762 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8005572.json
+2024-09-25 11:08:59,067 - INFO - Datos obtenidos para CIV: 8007705
+2024-09-25 11:08:59,070 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8007705.json
+2024-09-25 11:08:59,479 - INFO - Datos obtenidos para CIV: 8001345
+2024-09-25 11:08:59,480 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8001345.json
+2024-09-25 11:08:59,768 - INFO - Datos obtenidos para CIV: 8001000
+2024-09-25 11:08:59,770 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8001000.json
+2024-09-25 11:09:00,193 - INFO - Datos obtenidos para CIV: 8003872
+2024-09-25 11:09:00,195 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8003872.json
+2024-09-25 11:09:00,603 - INFO - Datos obtenidos para CIV: 8000538
+2024-09-25 11:09:00,606 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000538.json
+2024-09-25 11:09:00,937 - INFO - Datos obtenidos para CIV: 8004747
+2024-09-25 11:09:00,939 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8004747.json
+2024-09-25 11:09:01,290 - INFO - Datos obtenidos para CIV: 8012677
+2024-09-25 11:09:01,292 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8012677.json
+2024-09-25 11:11:53,392 - INFO - Leídos 30 CIVs desde el archivo /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/top_30_civ_values.txt
+2024-09-25 11:11:55,300 - INFO - Datos obtenidos para CIV: 8014077
+2024-09-25 11:11:55,301 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014077.json
+2024-09-25 11:11:56,545 - INFO - Datos obtenidos para CIV: 8014080
+2024-09-25 11:11:56,547 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014080.json
+2024-09-25 11:11:57,851 - INFO - Datos obtenidos para CIV: 8014082
+2024-09-25 11:11:57,853 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014082.json
+2024-09-25 11:12:09,942 - INFO - Datos obtenidos para CIV: 8007557
+2024-09-25 11:12:09,944 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8007557.json
+2024-09-25 11:12:11,271 - INFO - Datos obtenidos para CIV: 8014083
+2024-09-25 11:12:11,273 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014083.json
+2024-09-25 11:12:12,466 - INFO - Datos obtenidos para CIV: 8014084
+2024-09-25 11:12:12,468 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014084.json
+2024-09-25 11:12:13,769 - INFO - Datos obtenidos para CIV: 8014085
+2024-09-25 11:12:13,770 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014085.json
+2024-09-25 11:12:15,119 - INFO - Datos obtenidos para CIV: 8014081
+2024-09-25 11:12:15,121 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014081.json
+2024-09-25 11:12:16,417 - INFO - Datos obtenidos para CIV: 7007894
+2024-09-25 11:12:16,419 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_7007894.json
+2024-09-25 11:12:17,629 - INFO - Datos obtenidos para CIV: 8005921
+2024-09-25 11:12:17,632 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8005921.json
+2024-09-25 11:12:18,953 - INFO - Datos obtenidos para CIV: 8000645
+2024-09-25 11:12:18,954 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000645.json
+2024-09-25 11:12:20,211 - INFO - Datos obtenidos para CIV: 8000956
+2024-09-25 11:12:20,213 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000956.json
+2024-09-25 11:12:21,548 - INFO - Datos obtenidos para CIV: 8014576
+2024-09-25 11:12:21,550 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8014576.json
+2024-09-25 11:12:22,960 - INFO - Datos obtenidos para CIV: 8007622
+2024-09-25 11:12:22,962 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8007622.json
+2024-09-25 11:12:24,686 - INFO - Datos obtenidos para CIV: 8008530
+2024-09-25 11:12:24,687 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8008530.json
+2024-09-25 11:12:26,019 - INFO - Datos obtenidos para CIV: 8008417
+2024-09-25 11:12:26,021 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8008417.json
+2024-09-25 11:12:54,384 - INFO - Datos obtenidos para CIV: 8006004
+2024-09-25 11:12:54,386 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8006004.json
+2024-09-25 11:13:34,939 - INFO - Datos obtenidos para CIV: 8011285
+2024-09-25 11:13:34,941 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8011285.json
+2024-09-25 11:13:35,350 - INFO - Datos obtenidos para CIV: 8005539
+2024-09-25 11:13:35,352 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8005539.json
+2024-09-25 11:13:35,465 - INFO - Datos obtenidos para CIV: 8004326
+2024-09-25 11:13:35,467 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8004326.json
+2024-09-25 11:13:40,580 - INFO - Datos obtenidos para CIV: 8004225
+2024-09-25 11:13:40,582 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8004225.json
+2024-09-25 11:13:40,707 - INFO - Datos obtenidos para CIV: 8000582
+2024-09-25 11:13:40,708 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000582.json
+2024-09-25 11:13:40,821 - INFO - Datos obtenidos para CIV: 8005572
+2024-09-25 11:13:40,823 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8005572.json
+2024-09-25 11:13:40,938 - INFO - Datos obtenidos para CIV: 8007705
+2024-09-25 11:13:40,940 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8007705.json
+2024-09-25 11:13:41,073 - INFO - Datos obtenidos para CIV: 8001345
+2024-09-25 11:13:41,074 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8001345.json
+2024-09-25 11:13:41,227 - INFO - Datos obtenidos para CIV: 8001000
+2024-09-25 11:13:41,229 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8001000.json
+2024-09-25 11:13:41,375 - INFO - Datos obtenidos para CIV: 8003872
+2024-09-25 11:13:41,377 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8003872.json
+2024-09-25 11:13:41,532 - INFO - Datos obtenidos para CIV: 8000538
+2024-09-25 11:13:41,534 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8000538.json
+2024-09-25 11:13:41,656 - INFO - Datos obtenidos para CIV: 8004747
+2024-09-25 11:13:41,657 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8004747.json
+2024-09-25 11:13:46,275 - INFO - Datos obtenidos para CIV: 8012677
+2024-09-25 11:13:46,276 - INFO - Datos guardados en /home/usuario/PycharmProjects/KennedyUrbanAnalysis/src/../output/civ_8012677.json

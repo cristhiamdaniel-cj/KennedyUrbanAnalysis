@@ -1,0 +1,128 @@
+{
+    "displayFieldName": "CIV",
+    "fieldAliases": {
+        "CIV": "CIV",
+        "LONGITUDSEGMENTO": "LONGITUDSEGMENTO",
+        "OBJECTID": "OBJECTID",
+        "CODIGOUPZ": "Codigo UPZ",
+        "CODIGOVIA": "Codigo Via",
+        "TIPOCLASIFICACIONSUELO": "Tipo Clasificacion Suelo",
+        "SECCIONVIAL": "Seccion Vial",
+        "TIPOMALLA": "Tipo Malla",
+        "CODIGOLOCALIDAD": "Localidad",
+        "SHAPE.LEN": "SHAPE.LEN",
+        "UBICACION": "UBICACION"
+    },
+    "geometryType": "esriGeometryPolyline",
+    "spatialReference": {
+        "wkt": "PROJCS[\"PCS_CartMAGBOG\",GEOGCS[\"GCS_CartMAGBOG\",DATUM[\"GCS_CartMAGBOG\",SPHEROID[\"GRS80 Modificado\",6380687.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",92334.879],PARAMETER[\"False_Northing\",109320.965],PARAMETER[\"Central_Meridian\",-74.14659166666667],PARAMETER[\"Scale_Factor\",1.0],PARAMETER[\"Latitude_Of_Origin\",4.6804861111111],UNIT[\"Meter\",1.0]]"
+    },
+    "fields": [
+        {
+            "name": "CIV",
+            "type": "esriFieldTypeInteger",
+            "alias": "CIV"
+        },
+        {
+            "name": "LONGITUDSEGMENTO",
+            "type": "esriFieldTypeDouble",
+            "alias": "LONGITUDSEGMENTO"
+        },
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+        },
+        {
+            "name": "CODIGOUPZ",
+            "type": "esriFieldTypeString",
+            "alias": "Codigo UPZ",
+            "length": 50
+        },
+        {
+            "name": "CODIGOVIA",
+            "type": "esriFieldTypeSmallInteger",
+            "alias": "Codigo Via"
+        },
+        {
+            "name": "TIPOCLASIFICACIONSUELO",
+            "type": "esriFieldTypeString",
+            "alias": "Tipo Clasificacion Suelo",
+            "length": 1
+        },
+        {
+            "name": "SECCIONVIAL",
+            "type": "esriFieldTypeSmallInteger",
+            "alias": "Seccion Vial"
+        },
+        {
+            "name": "TIPOMALLA",
+            "type": "esriFieldTypeString",
+            "alias": "Tipo Malla",
+            "length": 2
+        },
+        {
+            "name": "CODIGOLOCALIDAD",
+            "type": "esriFieldTypeSmallInteger",
+            "alias": "Localidad"
+        },
+        {
+            "name": "SHAPE.LEN",
+            "type": "esriFieldTypeDouble",
+            "alias": "SHAPE.LEN"
+        },
+        {
+            "name": "UBICACION",
+            "type": "esriFieldTypeString",
+            "alias": "UBICACION",
+            "length": 50
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "CIV": 8008417,
+                "LONGITUDSEGMENTO": 56.41,
+                "OBJECTID": 111280,
+                "CODIGOUPZ": "UPZ81",
+                "CODIGOVIA": 0,
+                "TIPOCLASIFICACIONSUELO": "U",
+                "SECCIONVIAL": 10,
+                "TIPOMALLA": "LO",
+                "CODIGOLOCALIDAD": 8,
+                "SHAPE.LEN": 56.4082455070996,
+                "UBICACION": "C"
+            },
+            "geometry": {
+                "paths": [
+                    [
+                        [
+                            88585.8137,
+                            101923.2267
+                        ],
+                        [
+                            88576.2323,
+                            101933.2201
+                        ],
+                        [
+                            88568.9202,
+                            101941.030400001
+                        ],
+                        [
+                            88560.4573,
+                            101950.389
+                        ],
+                        [
+                            88552.4487,
+                            101958.6949
+                        ],
+                        [
+                            88547.5782,
+                            101964.670600001
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
